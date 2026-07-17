@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">A passionate 17y/o Front-End Web Developer from Romania.</h3>
 
-- 🔭 I’m currently working on [sinister.wtf](https://sinister.wtf)
+- 🔭 I’m currently working on nothing.
 
-- 👯 I’m looking to collaborate on an **Anime Website**
+- 👯 I’m looking to collaborate on any **Website**
 
 - 👨‍💻 All of my projects are available at [https://mario3d.vercel.app/](https://mario3d.vercel.app/)
 
